@@ -1,4 +1,4 @@
-// Copyright by Enigma
+// Copyright by Panasykmaria
 
 #ifndef INCLUDE_QUEUE_HPP_
 #define INCLUDE_QUEUE_HPP_

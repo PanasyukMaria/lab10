@@ -1,4 +1,4 @@
-// Copyright by Enigma
+// Copyright by Panasykmaria
 
 #include <stdexcept>
 #include <thread>

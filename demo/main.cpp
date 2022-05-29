@@ -1,4 +1,4 @@
-// Copyright by Enigma
+// Copyright by Panasykmaria
 
 #include <iostream>
 #include <boost/program_options.hpp>
