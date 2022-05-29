@@ -68,4 +68,4 @@ class My_BD {
 };
 
 #endif //INCLUDE_DATABASE_HPP_
-
+//--output outBD --thread_count 2 --log_level info
